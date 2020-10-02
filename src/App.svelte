@@ -29,7 +29,6 @@
 		flex-direction: column;
 		align-items: center;
 		height: 100vh;
-		/*justify-content: center;*/
 	}
 	.content {
 		display: flex;
